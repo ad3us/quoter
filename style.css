@@ -5,6 +5,7 @@
 }
 
 body {
+  scale: 0.925;
   background-color: #5372F0;
   display: flex;
   min-height: 100vh;
